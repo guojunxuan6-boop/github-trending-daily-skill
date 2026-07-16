@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Trending Daily"
+  short_description: "Run resumable Chinese GitHub trend intelligence reports"
+  default_prompt: "Use $github-trending-daily to run or resume today’s evidence-based GitHub trend report and preserve its history safely."
